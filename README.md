@@ -690,9 +690,3 @@ Proyecto realizado como parte del:
 
 Automatización e integración de sistemas con **n8n**.
 
-```
-
-Este README refleja además la búsqueda de HubSpot por `customer_email`, con límite de un resultado, y la bifurcación posterior según la existencia del contacto. :contentReference[oaicite:1]{index=1}
-
-**Antes de subirlo:** poné el JSON dentro de `workflow/`, el README en la raíz y, si vas a incluir evidencias, te conviene usar las capturas del **workflow completo**, del **mensaje recibido en Slack** y de **HubSpot funcionando**. Así el repositorio queda mucho más sólido para la entrega.
-```
